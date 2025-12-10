@@ -14,7 +14,7 @@ Siga estos pasos:
   7. Aceptar la advertencia y finalizar la instalación del certificado
 
 Instalar la aplicación ACCAIS-BD
-
+  Enlance para descarga del instalador: https://github.com/Axelmc08/ACCAIS-BD/releases/download/v1.0.1/ACCAISBD.msix
   1. Abrir ACCAIS-BD.msix
   2. Hacer clic en Instalar
 
